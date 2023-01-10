@@ -13,7 +13,7 @@ Disc: This is an assessment test provided by Clapingo Education.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/iamhk12/attendance_react/blob/main/ss/Attendance%20App%20-%20Google%20Chrome%2005-01-2023%2015_53_48.png)
+![App Screenshot](https://github.com/iamhk12/Clapingo-edu-assessment/blob/main/ss/loginpage.png)
 
 ## Installation
 
