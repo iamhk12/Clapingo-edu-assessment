@@ -1,4 +1,5 @@
 import React from 'react'
+import { NavLink } from 'react-router-dom';
 import clogo from "./clogo.png"
 import "./Nav.css"
 const Nav = (props) => {
@@ -17,7 +18,7 @@ const Nav = (props) => {
                     <a href="/">Kids</a>
                 </div>
                 <div className="nav-login">
-                    <a href="/login"><button className="logIN">{props.txt}</button></a>   
+                    <NavLink to="/login"><button className="logIN">{props.txt}</button></NavLink>   
                 </div>
             </div>
         </>
