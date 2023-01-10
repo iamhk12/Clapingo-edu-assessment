@@ -28,7 +28,7 @@ const Main = () => {
                     </div>
                 </div>
                 <div className="b-right">
-                    <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/b7/b3/eb/caption.jpg?w=1200&h=-1&s=1" alt="" className="b-right-image" />
+                    <img src="https://www.britsoc.co.uk/media/23999/adobestock_88416716.jpg" alt="" className="b-right-image" />
                 </div>
             </section>
 
